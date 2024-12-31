@@ -18,7 +18,7 @@ For viewing the parts of this project, I would (bold)strongly(/bold) recommend v
 
 **Python Version:** 3.9.18
 
-##Python Packages Used:
+## Python Packages Used:
 **Data Gathering:** [Astroquery](https://astroquery.readthedocs.io/en/latest/) (a SQL-based package for querying astronomical databases)
 
 **Data Manipulation:** Pandas, NumPy
