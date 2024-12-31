@@ -12,7 +12,7 @@ My contributions to the paper are spread across the three parts in this reposito
 
 
 # Installation & Setup:
-For viewing the parts of this project, I would (bold)strongly(/bold) recommend viewing the included HTML versions of the notebooks to quickly view the code, process, and results of the work rather than trying to recreate it. There are a few specific dependencies on astronomy specific packages that are required to run parts of the project as well as the querying astronomical databases that may take some time to fully process. The data involves multiple different features and covers 3 million rows, each representing a different star in the Milky Way.
+For viewing the parts of this project, I would **strongly** recommend viewing the included HTML versions of the notebooks to quickly view the code, process, and results of the work rather than trying to recreate it. There are a few specific dependencies on astronomy specific packages that are required to run parts of the project as well as the querying astronomical databases that may take some time to fully process. The data involves multiple different features and covers 3 million rows, each representing a different star in the Milky Way.
 
 
 ## Resources Used:
