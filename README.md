@@ -64,6 +64,6 @@ For disc stars, the Gaia data validated the SDSS data from 0-5 kpc (kiloparsec),
 The LSST, based in part from this data, will provide its own kinematic constraints on main-sequence stars out to distances of about 30 kpc, significantly further than possible with Gaia data. The LSST will eventually create a 20 petabyte data catalog and the total data volume after processing will be several hundred petabytes made available across multiple data releases. 
 
 # Acknowledgments
-I would first like to acknowledge and thank Professor Željko Ivezić for the opportunity to work with him on this paper and for his guidance and insight throughout it.
+I would first like to acknowledge and thank [Professor Željko Ivezić](https://www.lsst.org/about/team/lsst-director) for the opportunity to work with him on this paper and for his guidance and insight throughout it.
 
 I would also like to acknowledge and thank the other collaborators who worked on this paper with Professor Ivezic and I;  Bruno Dominguez, Siddharth Chaini, and Karlo Mrakovci. 
