@@ -38,8 +38,6 @@ I have included both HTML and Python notebook versions of the three parts of thi
 
 **Part 3 - FGKM Proper Motion & Radial Velocity Plots:** The notebook of my third contribution to the paper. Involved using the filtered master dataset (400-600pc data file) to a series of polar plot to visualize the star's 3-dimensional velocity measurements.
 
-**400-600pc_distance_filtered_sample:** Used during the third part of my contribution to the paper. Contains a master dataset of the star sample that has been cut down to contain only the stars between the distances of 400 - 600 pc (parsecs) along with their relevant properties and measurements.
-
 **Final Paper - Validation of the Bond et al.:** A PDF of the final published research paper as found on either the Astronomy & Astrophysics Journal database or the Arxiv archive. My contributions can be seen in Figures 1, 9, and 10 as well as sections 2,0, 3.3, and the Appendix.
 
 **[MWKinematicsFGKM](https://github.com/sidchaini/MWKinematicsFGKM):** Repository with public data access to reproduce the results of the entire paper, not just my own contributions. 
