@@ -12,7 +12,7 @@ My contributions to the paper are spread across the three parts in this reposito
 
 
 # Installation & Setup:
-I have included both HTML and Python notebook versions of the three parts of this project for viewing in browser (HTML) or viewing as a notebook (Python notebook). I would **strongly** recommend not attempting to recreate this project as there are dependencies on astronomy specific packages that are required to run parts of the project. All of the astronomy packages are free to use and operate in ways similar to more common languages/packages (for example: Astroquery is used in much the same way as SQL), but the time involved in the set-up and execution of unique packages and the large amount of data points (3 million unique stars with multiple features each) may simply not be worthwhile.
+I would **strongly** recommend not attempting to recreate this project as there are dependencies on astronomy specific packages that are required to run parts of the project. All of the astronomy packages are free to use and operate in ways similar to more common languages/packages (for example: Astroquery is used in much the same way as SQL), but the time involved in the set-up and execution of unique packages and the large amount of data points (3 million unique stars with multiple features each) may simply not be worthwhile. Viewing the notebook is a much quicker way to sufficiently understand the project.
 
 ## Resources Used:
 **Editor Used:** Jupyter Lab 3.3.2
